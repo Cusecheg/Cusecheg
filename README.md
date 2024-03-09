@@ -1,18 +1,20 @@
-<table> <tr> <td align="center"><img src="https://github.com/yourusername/yourusername.github.io/blob/main/assets/img/yourphoto.png?raw=true" width="150" height="150" alt="Your Photo"/></td> <td align="center"><h1>Your Name</h1><p><em>Your Title or Role</em></p></td> </tr> </table> <p align="center"> <a href="https://twitter.com/yourtwitterhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> <a href="https://linkedin.com/in/yourlinkedinhandle" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge" alt="LinkedIn Profile" /></a> </p>
-About Me
-I am a passionate <Your Title or Role> with a focus on <Your Skills or Expertise>. With over <Number of Years of Experience> years of experience, I have worked with a variety of technologies and platforms, including <List of Technologies and Platforms>.
 
-I am a lifelong learner and enjoy staying up-to-date with the latest trends and best practices in my field. In my free time, I enjoy <Hobbies or Interests>.
+# 💫 About Me:
+Hi 👋🏽, I'm Juan Useche!<br><br>🎓 Student in Software Engineering.<br>🤓 Currently taking a Technology course at DNC<br>📚 "Success is the sum of small efforts repeated daily"<br>- Robert Collier.
 
-Skills
-<ul> <li><strong>Programming Languages:</strong> <Your Programming Languages></li> <li><strong>Frameworks and Libraries:</strong> <Your Frameworks and Libraries></li> <li><strong>Tools and Platforms:</strong> <Your Tools and Platforms></li> </ul>
-Projects
-<ul> <li><a href="https://github.com/yourusername/yourprojectname">Project Name</a></li> <li><a href="https://github.com/yourusername/yourprojectname">Project Name</a></li> <li><a href="https://github.com/yourusername/yourprojectname">Project Name</a></li> </ul>
-Contact Me
-<p align="center"> <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> <a href="https://www.linkedin.com/in/yourlinkedinhandle" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a> <a href="https://twitter.com/yourtwitterhandle" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitterhandle?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a> </p>
-Feel free to customize this template to fit your needs and showcase your unique skills and experiences. Good luck with your GitHub profile!
 
-Is this conversation helpful so far?
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/cusecheg_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juan-useche-79b395235/) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=Cusecheg&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Cusecheg&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Cusecheg&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
